@@ -32,7 +32,7 @@ ingresar(){
   }else{
     this.presentToast("Falta ingresar " + this.field, 5500)
   }
-
+    
 }
 
 validateModel(model: any){
@@ -52,3 +52,6 @@ validateModel(model: any){
     toast.present();
   }
 }
+
+
+

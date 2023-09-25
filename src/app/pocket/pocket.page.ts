@@ -6,15 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./pocket.page.scss'],
 })
 export class PocketPage implements OnInit {
-  foods: any;
 
-  constructor() {}
+  constructor() { }
 
   ngOnInit() {
-    fetch('../../assets/food.json').then(res => res.json()).then(json => {
-      console.log('results::',json);
-      this.foods = json
-    })
   }
 
 }

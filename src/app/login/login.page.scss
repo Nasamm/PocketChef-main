@@ -1,10 +1,30 @@
 ion-content{
     --ion-background-color: #EAD7FF;
+    --background: linear-gradient(0deg, rgba(140,128,153,1) 0%, rgba(233,213,254,1) 64%);
 }
 
 ion-card {
     --background: #ffffff;
 }
+
+ion-button{
+    --background: transparent;
+    --justify-content: center;
+    --align-items: center;
+    --width: 75%;
+    --padding: 20px 20px;
+    --display: flex;
+    --margin: 50px 45px;
+    --background-color: #DBDBDB;
+    --color: #ED75EF;
+    --font-weight: bold;
+    --font-size: 19px;
+    --border-radius: 40px;
+    --outline: none;
+    --border: 0;
+    --box-shadow: 2px 2px 4px #00000062;
+}
+
 
 .item{
     --background: transparent;
@@ -105,3 +125,4 @@ h1{
     box-shadow: 2px 2px 4px #00000062; 
     border-radius: 40px;
 }
+
