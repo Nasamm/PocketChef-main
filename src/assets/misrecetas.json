@@ -1,0 +1,17 @@
+[
+    {
+        "foodId": 1,
+        "nombreComida": "Blue Gin Tonic",
+        "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiSIC6PC6XAc7ndNRc0V71ahB3jCsOSPW8Rs_8ZMdbrQwuzjwsod4Tqa0lnylLftYbwfM&usqp=CAU"
+    },
+    {
+        "foodId": 2,
+        "nombreComida": "Mojito de maracuyá",
+        "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2aOEfTRvsc6EUihStMAVtqPlfksA-u51XI8wrj1y3CnpjUlPlYjLVVIbcziXDon_xq58&usqp=CAU"
+    },
+    {
+        "foodId": 3,
+        "nombreComida": "Papas con chedar, tocino y ciboullete",
+        "imagenUrl": "https://i.pinimg.com/474x/f6/7f/11/f67f11e26a566efe86cfb3dd3c85f9ca.jpg"
+    }
+]

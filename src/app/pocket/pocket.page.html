@@ -1,0 +1,18 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>Pocket</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Pocket Community</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-card *ngFor="let food of this.foods">
+    <img src="{{food.imagenUrl}}" alt="{{food.nombreComida}}">
+    <h2>{{food.nombreComida}}</h2>
+  </ion-card>
+</ion-content>

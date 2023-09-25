@@ -1,0 +1,22 @@
+[
+    {
+        "foodId": 1,
+        "nombreComida": "Pastel de Choclo",
+        "imagenUrl": "https://www.comidastipicaschilenas.com/wp-content/uploads/2020/03/Pastel-de-choclo.jpg"
+    },
+    {
+        "foodId": 2,
+        "nombreComida": "Crema de esparrago",
+        "imagenUrl": "https://www.deliciosi.com/images/100/132/crema-de-esparragos.jpg"
+    },
+    {
+        "foodId": 3,
+        "nombreComida": "Cazuela",
+        "imagenUrl": "https://comidastipicaschilenas.cl/wp-content/uploads/2021/06/Receta-de-cazuela-de-Vacuno-chilena.jpg"
+    },
+    {
+        "foodId": 3,
+        "nombreComida": "Lasagna",
+        "imagenUrl": "https://www.recetasdesbieta.com/wp-content/uploads/2018/10/lasagna-original..jpg"
+    }
+]
